@@ -1,1 +1,2 @@
-# codigos_utiles
+# codigos utiles para el pre-procesamiento de imagenes
+
